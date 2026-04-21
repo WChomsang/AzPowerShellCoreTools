@@ -1,0 +1,20 @@
+# PowerShell Editor & IDE
+.vscode/
+*.swp
+*~
+
+# Log, Transcript & Temp files
+*.log
+*.err.txt
+*.tmp
+*.bak
+*Transcript*.txt
+
+# Security & Credentials
+*.clixml
+.env
+*.key
+
+# OS generated files
+.DS_Store
+Thumbs.db
