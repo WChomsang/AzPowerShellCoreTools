@@ -1,6 +1,5 @@
 [CmdletBinding()]
 param (
-    [Parameter()]
     [switch]
     $disconnect
 )
